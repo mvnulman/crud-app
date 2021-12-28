@@ -72,6 +72,11 @@ Aplicação CRUD desenvolvida para controlar fluxo de produtos ativos e inativos
 ![mordal2](https://user-images.githubusercontent.com/63374582/147592423-714f9ce9-6181-4e7b-8cd9-3cff746a3c99.PNG)
 
 
+## BUGS
+- Ajustar a implementação de imagens através dos mais diversos métodos (inclusive utilizando a dependência "Multer") (In Progress...);
+- Implementar o "Combobox" para as Marcas ao cadastrar ou editar os produtos (In Progress...);
+- Search bar não está funcionando por hora (In Progress...)
+
 <!-- LICENSE -->
 ## Licença
 
